@@ -42,6 +42,18 @@
   padding: 6px 19px 3px 19px;
   color: #c53b3b;
 }
+.sing-up:hover {
+  font-weight: 600;
+  width: 96px;
+  border: 2px solid #c53b3b;
+  border-radius: 10px;
+  margin-top: 23px;
+  font-size: 16px;
+  font-family: 'Proxima Nova Regular';
+  padding: 6px 19px 3px 19px;
+  color: #fff;
+  background-color: #c53b3b;
+}
 .video {
   background-color: #666666;
   color: #fff;
